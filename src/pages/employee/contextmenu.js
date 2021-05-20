@@ -64,10 +64,10 @@ export const DataGridContext = ({ ...rest }) => {
   )
 }
 
-
+//Footer context menu
 function addMenuItems(e) {
 
-
+  
   if (e.target == 'header') {
     //....
   }
