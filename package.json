@@ -9,6 +9,8 @@
     "@testing-library/user-event": "^12.1.10",
     "devextreme": "^20.2.4",
     "devextreme-react": "20.2.3",
+    "jspdf": "^2.3.1",
+    "jspdf-autotable": "^3.5.14",
     "node-sass": "^4.11.0",
     "react": "^16.2.0",
     "react-app-polyfill": "^1.0.0",
